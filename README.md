@@ -1,6 +1,8 @@
 # swift-picker-views
 Inline single and multiple picker views for UIKit. No tableview, no data sources! Easy and simple.
 
+Just clone and run the playground, to see it in action 💥
+
 ### Using Single-Selection Picker:
 ```swift
 /// With radius
